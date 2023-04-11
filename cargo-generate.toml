@@ -1,0 +1,5 @@
+[placeholders.edition]
+type = "string"
+prompt = "Which edition do you want to use? "
+choices = ["2015", "2018", "2021"]
+default = "2021"
